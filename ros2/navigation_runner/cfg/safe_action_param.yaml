@@ -1,7 +1,0 @@
-safe_action_node:
-  ros__parameters:
-    time_horizon: 2.0
-    time_step: 0.05
-    min_height: 0.7
-    max_height: 1.3
-    safety_distance: 0.3

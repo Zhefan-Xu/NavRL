@@ -1,5 +1,0 @@
-yolo_detector_node:
-  ros__parameters:
-    color_image_topic: /camera/color/image_raw
-    time_step: 0.033
-    debug_vis: False

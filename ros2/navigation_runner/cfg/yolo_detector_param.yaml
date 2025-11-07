@@ -1,5 +1,0 @@
-yolo_detector_node:
-  ros__parameters:
-    color_image_topic: /unitree_go2/front_cam/color_image
-    time_step: 0.033
-    debug_vis: False

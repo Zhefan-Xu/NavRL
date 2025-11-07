@@ -1,7 +1,0 @@
-navigation_node:
-  ros__parameters:
-    vel_limit: 1.0
-    odom_topic: /unitree_go2/odom
-    cmd_topic: /unitree_go2/cmd_vel
-    checkpoint_file: navrl_checkpoint.pt
-    visualize_raycast: false

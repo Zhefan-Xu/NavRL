@@ -1,9 +1,0 @@
-drone:  
-  model_name: "hummingbird"
-
-sensor:
-  lidar_range: 4.
-  lidar_vfov: [-10, 20.] # degree
-  lidar_vbeams: 4 # number of vertical beams
-  lidar_hres: 10. # degree
-  
